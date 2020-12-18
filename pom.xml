@@ -97,7 +97,7 @@ THE SOFTWARE.
     <sorcerer.version>0.11</sorcerer.version>
     <animal.sniffer.skip>${skipTests}</animal.sniffer.skip>
     <access-modifier.version>1.14</access-modifier.version>
-    <access-modifier-annotation.version>${access-modifier.version}</access-modifier-annotation.version> <!-- differing only where needed for timestamped snapshots -->
+    <access-modifier-annotation.version>1.20</access-modifier-annotation.version> <!-- differing only where needed for timestamped snapshots -->
     <access-modifier-checker.version>${access-modifier.version}</access-modifier-checker.version>
 
     <java.level>8</java.level>
